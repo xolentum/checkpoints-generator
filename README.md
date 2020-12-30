@@ -7,7 +7,7 @@ Generate checkpoints for https://github.com/xolentum/xolentum/blob/master/src/ch
 
 ## License
 
-Copyright (c) 2020, The Xolentum Project
+Copyright (c) 2020, The Xolentum Project   
 Copyright (c) 2020, The ArQmA Network
 
 All rights reserved.
