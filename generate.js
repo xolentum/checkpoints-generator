@@ -12,7 +12,7 @@ const step = 2500
 async function getData () {
   try {
     const daemonClient = rpcDaemon.createDaemonClient({
-      url: 'http://127.0.0.1:13580'
+      url: 'http://127.0.0.1:6969'
     })
     // When using a self signed certificate with HTTPS you need to set the function sslRejectUnauthorized to false.
     daemonClient.sslRejectUnauthorized(false)
